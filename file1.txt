@@ -1,6 +1,1 @@
-file 1
 salam
-line3
-new line first
-salam
-
